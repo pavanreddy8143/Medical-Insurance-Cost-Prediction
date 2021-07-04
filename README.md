@@ -2,8 +2,6 @@
 
 ### predict the Medical Insurance cost prediction with the help of ML-Regression 
 
-Predict the Medical Insurance Prediction with help of ML- Regression
-
 Content Columns -
 
 - age: age of primary beneficiary
